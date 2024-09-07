@@ -1,5 +1,5 @@
 .gradle/
 test
 testing webhook trigger
-pipeline test1 using webhook trigger
+pipeline test2 using webhook trigger
 final deployment test
